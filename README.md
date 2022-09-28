@@ -24,4 +24,4 @@ This repo is used to keep track of all classes at Data Science Retreat: https://
   - Moving from Interactive Mode to Script Mode
   - Working with Arg Parse
   
-## Second 
+## Git and Bash
