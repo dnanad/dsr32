@@ -1,0 +1,37 @@
+﻿1. What is a shell, accessing it, ZSH and Bash, oh-my-zsh, advantages of CLI interface
+2. Prompt: what is it, press up and down to get latest command
+3. man and --help
+4. pwd, cd, cd .., cd ~, cd -, absolute and relative paths
+5. ls, ls -a, ls -lhtr, notice that directory size is not shown but requires du
+6. du -sh *, df -h 
+7. ls *.png, notice how * works in general by creating a python program that shows the arguments
+8. mkdir, mkdir -p
+9. touch
+10. cp, cp -r, mv, careful that mv overwrites
+11.      rm, rm -f
+12. wget https://gist.githubusercontent.com/jacopofar/804c5694ac12a9d6fde653b5a6e3b983/raw/8ffd027bf5e9b1184695e1e55798f699e6acda74/countries_capitals.tsv
+13. cat 
+14. find . -name "states.txt"
+15. vim, vi, and nano: how to save and exit in vim
+16. less, head, tail
+17. wc
+18. The UNIX philosophy: small tools that do one thing and one thing only
+19. what is stdin, stdout, stderr
+20. combining commands with the pipe
+21. grep, egrep
+22. echo
+23. quiz: what if I want to count how many png files are there in a folder?
+24. using > and >> to redirect the output
+25. environment variables: set, unset, env, export. Notice that different windows have different variables
+26. know the shell with echo $SHELL
+27. bashrc, bash_profile, bash_history (and also zsh)
+28. the PATH environment variable, the type command
+29. aliases
+30. SSH: how to connect
+31. ssh-keygen
+32. the -i flag, the -A flag
+33. open a tunnel with -L, sock proxy with -D
+34. scp and rsync
+35. Creating a script: shebang in bash and python, give it executable permissions
+36. https://forms.gle/h6FXYzk31oEZrc4K9
+37.
