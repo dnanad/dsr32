@@ -19,5 +19,3 @@
 5. Scripting:
   - Moving from Interactive Mode to Script Mode
   - Working with Arg Parse
-  
-## Git and Bash
