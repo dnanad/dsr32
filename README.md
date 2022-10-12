@@ -11,3 +11,5 @@ This repo is used to keep track of all classes at Data Science Retreat: https://
 ## Visualisation
 
 ## SQL
+
+## Introduction to Statistics
