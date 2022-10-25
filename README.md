@@ -19,3 +19,5 @@ This repo is used to keep track of all classes at Data Science Retreat: https://
 ## Timeseries predictive modelling
 
 ## Backpropogation
+
+## NLP Transfer Learning Representation
