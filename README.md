@@ -10,7 +10,7 @@ This repo is used to keep track of all classes at [Data Science Retreat](https:/
 
 ## [Visualisation](https://github.com/dnanad/dsr32/tree/main/5Viz)
 
-## SQL
+## [SQL](https://github.com/dnanad/dsr32/tree/main/6SQL)
 
 ## Introduction to Statistics
 
