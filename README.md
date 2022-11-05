@@ -21,3 +21,7 @@ This repo is used to keep track of all classes at Data Science Retreat: https://
 ## Backpropogation
 
 ## NLP Transfer Learning Representation
+
+## Docker
+
+## Deep Learning and image processing with PyTorch
