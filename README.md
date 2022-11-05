@@ -1,14 +1,14 @@
 # dsr32
-This repo is used to keep track of all classes at Data Science Retreat: https://datascienceretreat.com/
+This repo is used to keep track of all classes at [Data Science Retreat](https://datascienceretreat.com/)
 
 
-## [Introduction to Python](https://github.com/user/repo/blob/branch/other_file.md)
+## [Introduction to Python](https://github.com/dnanad/dsr32/tree/main/1Intro_to_python)
 
-## Git and Bash
+## [Git and Bash](https://github.com/dnanad/dsr32/tree/main/2git_bash)
 
-## Probability
+## [Probability](https://github.com/dnanad/dsr32/tree/main/4probability)
 
-## Visualisation
+## [Visualisation](https://github.com/dnanad/dsr32/tree/main/5Viz)
 
 ## SQL
 
