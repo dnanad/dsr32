@@ -2,7 +2,7 @@
 This repo is used to keep track of all classes at Data Science Retreat: https://datascienceretreat.com/
 
 
-## Introduction to Python
+## [Introduction to Python](https://github.com/user/repo/blob/branch/other_file.md)
 
 ## Git and Bash
 
