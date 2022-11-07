@@ -12,7 +12,7 @@ This repo is used to keep track of all classes at [Data Science Retreat](https:/
 
 ## [SQL](https://github.com/dnanad/dsr32/tree/main/6SQL)
 
-## Introduction to Statistics
+## [Introduction to Statistics](https://github.com/dnanad/dsr32/tree/main/7Intro%20to%20statistics)
 
 ## ML Fundamentals
 
