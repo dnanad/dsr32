@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+.dsr32/15Computer_vision_TF/data/
