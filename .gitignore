@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+.dsr32/12NLP_Transfer_Learning/lovecraftcorpus
 .dsr32/15Computer_vision_TF/data/
