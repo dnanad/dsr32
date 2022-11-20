@@ -14,9 +14,9 @@ This repo is used to keep track of all classes at [Data Science Retreat](https:/
 
 ## [Introduction to Statistics](https://github.com/dnanad/dsr32/tree/main/7Intro%20to%20statistics)
 
-## ML Fundamentals
+## [ML Fundamentals](https://github.com/dnanad/dsr32/tree/main/8ML_fundamentals)
 
-## Timeseries predictive modelling
+## [Timeseries predictive modelling](https://github.com/dnanad/dsr32/tree/main/10Timeseries%20predictive%20modelling)
 
 ## Backpropogation
 
