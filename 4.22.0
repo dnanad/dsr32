@@ -1,0 +1,5 @@
+Collecting fonttools
+  Downloading fonttools-4.38.0-py3-none-any.whl (965 kB)
+     -------------------------------------- 965.4/965.4 kB 5.6 MB/s eta 0:00:00
+Installing collected packages: fonttools
+Successfully installed fonttools-4.38.0
