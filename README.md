@@ -18,7 +18,7 @@ This repo is used to keep track of all classes at [Data Science Retreat](https:/
 
 ## [Timeseries predictive modelling](https://github.com/dnanad/dsr32/tree/main/10Timeseries%20predictive%20modelling)
 
-## Backpropogation
+## [Backpropogation](https://github.com/dnanad/dsr32/tree/main/11Backpropogation)
 
 ## NLP Transfer Learning Representation
 
